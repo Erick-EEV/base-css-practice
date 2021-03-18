@@ -29,3 +29,41 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 5rem;
+}
+
+.navbar-wrapper {
+    box-shadow: 0px 0px 15px rgba(251, 72, 0, 0.15);
+}
+
+.navbar_logo {
+    color: #fb4b00;
+    font-size: 1.125rem;
+}
+
+.navbar_link {
+    font-size: 0.75rem;
+}
+
+.navbar_link:hover {
+    color: #fd7034;
+}
+
+.navbar_link:active {
+     color: #a03305;
+}
+
+.navbar_link + .navbar_link {
+     margin-left: 0.5rem;
+}
+/* css selector/ Will select whatever adjecent siblings */
+
+.navbar_link--accent {
+    color: #fb4b00;
+    font-weight: bold;
+}
