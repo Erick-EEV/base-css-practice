@@ -67,3 +67,13 @@ a {
     color: #fb4b00;
     font-weight: bold;
 }
+
+.why {
+    background-color: #fff1eb;
+    padding: 3rem 0;
+    text-align: center;
+  }
+  
+  .why__title {
+    margin-bottom: 0.5rem;
+  }
