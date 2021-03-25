@@ -73,7 +73,11 @@ a {
     padding: 3rem 0;
     text-align: center;
   }
-  
+
   .why__title {
     margin-bottom: 0.5rem;
+  }
+
+  .why__text {
+    margin-bottom: 2rem;
   }
