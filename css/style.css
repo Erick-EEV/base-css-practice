@@ -81,3 +81,9 @@ a {
   .why__text {
     margin-bottom: 2rem;
   }
+
+  .why__cardgroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
