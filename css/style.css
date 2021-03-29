@@ -87,3 +87,8 @@ a {
     flex-direction: column;
     justify-content: center;
   }
+
+  .why__card-text {
+    font-weight: bold;
+    margin: 0;
+  }
