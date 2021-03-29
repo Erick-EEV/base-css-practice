@@ -92,3 +92,7 @@ a {
     font-weight: bold;
     margin: 0;
   }
+
+  .why__card + .why__card {
+    margin-top: 2rem;
+  }
