@@ -101,4 +101,8 @@ a {
     .why__cardgroup {
       flex-direction: row;
     }
+    .why__card + .why__card {
+      margin-top: 0;
+      margin-left: 2rem;
+    }
   }
