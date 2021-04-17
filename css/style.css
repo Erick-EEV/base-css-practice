@@ -106,3 +106,13 @@ a {
       margin-left: 2rem;
     }
   }
+
+  /* ---------------- CREATE SECTION -------------------- */
+.create {
+  padding: 3rem 0;
+}
+
+.create__title {
+  margin: 0;
+  margin-bottom: 0.2rem;
+}
