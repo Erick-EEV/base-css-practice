@@ -134,3 +134,7 @@ a {
 
   overflow: hidden;
 }
+
+.create__card-img {
+  width: 100%;
+}
