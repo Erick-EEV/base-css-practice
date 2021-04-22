@@ -138,3 +138,7 @@ a {
 .create__card-img {
   width: 100%;
 }
+
+.create__card-content {
+  padding: 1rem;
+}
