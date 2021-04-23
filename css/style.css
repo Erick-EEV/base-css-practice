@@ -147,3 +147,15 @@ a {
   margin-bottom: 0.5rem;
   font-size: 0.75rem;
 }
+
+@media (min-width: 600px) {
+  .create__card-group {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 900px) {
+  .create__card-group {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
